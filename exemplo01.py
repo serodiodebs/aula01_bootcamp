@@ -1,0 +1,1 @@
+print("Oi! Iniciando já com o Git configurado ;)")
