@@ -1,1 +1,5 @@
-print("Oi! Iniciando já com o Git configurado ;)")
+# Ex.: 01 - Digite o nome e conte a quantidade de caracteres
+
+nome = input("Digite seu nome: ")
+print(len(nome))
+
